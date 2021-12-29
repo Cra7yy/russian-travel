@@ -297,6 +297,9 @@ body {
   font-size: 12px;
   line-height: 18px;
   color: #FFFFFF;
+}
+
+.description__signatures {
   margin-top: 33px;
 }
 
