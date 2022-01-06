@@ -1,0 +1,15 @@
+.lang__choice {
+  margin: 0;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  color: #FFFFFF;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 1024px) {
+  .lang__choice {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}

@@ -1,0 +1,9 @@
+.lang__choice_action {
+  border-bottom: 2px solid #FFFFFF;
+}
+
+@media screen and (max-width: 1024px) {
+  .lang__choice_action {
+    border-bottom: 1px solid #FFFFFF;
+  }
+}

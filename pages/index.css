@@ -1,0 +1,57 @@
+/* ! Подключение файла normalize и шрифтов */
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts.css);
+
+/* ! Главный блок pages */
+@import url(../blocks/pages/pages.css);
+
+/* ! Блок header */
+@import url(../blocks/header/header.css);
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/lang/lang.css);
+@import url(../blocks/lang/__choice/lang__choice.css);
+@import url(../blocks/lang/__choice/_action/lang__choice_action.css);
+
+/* ! Блок lead */
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/lead/__title/lead__title.css);
+@import url(../blocks/lead/__subtitle/lead__subtitle.css);
+@import url(../blocks/lead/__img/lead__img.css);
+@import url(../blocks/lead/__sign/lead__sign.css);
+
+/* ! Блок description */
+@import url(../blocks/description/description.css);
+@import url(../blocks/description/__title/description__title.css);
+@import url(../blocks/description/__text/description__text.css);
+@import url(../blocks/description/__sign/description__sign.css);
+@import url(../blocks/description/__number/description__number.css);
+@import url(../blocks/description/__signatures/description__signatures.css);
+
+/* ! Блок photo-gallery */
+@import url(../blocks/photo-gallery/photo-gallery.css);
+@import url(../blocks/photo-gallery/__img/photo-gallery__img.css);
+
+/* ! Блок info-blogs */
+@import url(../blocks/info-blogs/info-blogs.css);
+@import url(../blocks/info-blog/info-blog.css);
+@import url(../blocks/info-blog/__title/info-blog__title.css);
+@import url(../blocks/info-blog/__img/info-blog__img.css);
+@import url(../blocks/info-blog/__links/info-blog__links.css);
+@import url(../blocks/info-blog/__url/info-blog__url.css);
+@import url(../blocks/info-blog/__link/info-blog__link.css);
+@import url(../blocks/info-blog/__text/info-blog__text.css);
+
+/* ! Блок travel-blog */
+@import url(../blocks/travel-blog/travel-blog.css);
+@import url(../blocks/travel-blog/__link/travel-blog__link.css);
+@import url(../blocks/travel-blog/__title/travel-blog__title.css);
+@import url(../blocks/travel-blog/__subtitle/travel-blog__subtitle.css);
+
+/* ! Блок footer */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__signature/footer__signature.css);
+
+/* ! Дополнительный блок анимации link */
+@import url(../blocks/link/link.css);
