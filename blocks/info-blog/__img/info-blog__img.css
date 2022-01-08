@@ -3,24 +3,23 @@
   height: 460px;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
   .info-blog__img {
     width: 440px;
     height: 440px;
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .info-blog__img {
     width: 340px;
     height: 340px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .info-blog__img {
-    width: 320px;
+    max-width: 100%;
     height: 320px;
-    justify-self: center;
   }
 }

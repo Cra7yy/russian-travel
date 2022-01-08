@@ -5,19 +5,19 @@
   font-family: "Inter", "Arial", "sans-serif";
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
   .pages {
     max-width: 1024px;
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .pages {
     max-width: 768px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .pages {
     max-width: 320px;
   }
