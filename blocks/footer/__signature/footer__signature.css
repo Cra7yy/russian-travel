@@ -9,6 +9,7 @@
 
 @media screen and (max-width: 767px) {
   .footer__signature {
+    padding-top: 48px;
     line-height: 14px;
   }
 }
