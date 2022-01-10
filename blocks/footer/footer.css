@@ -8,6 +8,7 @@
   .footer {
     padding: 0 24px;
     padding-top: 88px;
+    padding-bottom: 24px;
   }
 }
 
@@ -15,6 +16,7 @@
   .footer {
     padding-left: 16px;
     padding-top: 64px;
+    padding-bottom: 24px;
     min-width: 186px;
     flex-direction: column;
     align-items: start;
