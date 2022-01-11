@@ -20,5 +20,6 @@
     min-width: 186px;
     flex-direction: column;
     align-items: start;
+    gap: 48px;
   }
 }
